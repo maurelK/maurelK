@@ -6,8 +6,8 @@
   <a href="https://github.com/maurelK">
     <img src="https://img.shields.io/badge/GitHub-maurelK-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/jose-maurel-kouassi-152b39264/">
-    <img src="https://img.shields.io/badge/LinkedIn-Maurel_KOUASSI-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="www.linkedin.com/in/josé-maurel-kouassi-152b39264">
+    <img src="https://img.shields.io/badge/LinkedIn-José_Maurel_KOUASSI-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 
 ## Profile
 
-I am **KOUASSI Mahounan Marcel**, a software and infrastructure-focused developer interested in building reliable systems across the application and infrastructure layers.
+I am **KOUASSI José Mautrel**, a software and infrastructure-focused developer interested in building reliable systems across the application and infrastructure layers.
 
 My technical interests include:
 
@@ -456,7 +456,7 @@ Particularly in environments involving:
 
 **GitHub:** [maurelK](https://github.com/maurelK)
 
-**LinkedIn:** [Maurel KOUASSI](https://www.linkedin.com/in/jose-maurel-kouassi-152b39264/)
+**LinkedIn:** [José Maurel KOUASSI](www.linkedin.com/in/josé-maurel-kouassi-152b39264/)
 
 ---
 
