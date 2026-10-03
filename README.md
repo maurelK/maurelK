@@ -4,7 +4,7 @@
 
 <p align="left">
   <a href="https://github.com/maurelK">
-    <img src="https://img.shields.io/badge/GitHub-maurelK-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-José_Maurel_KOUASSI-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="www.linkedin.com/in/josé-maurel-kouassi-152b39264">
     <img src="https://img.shields.io/badge/LinkedIn-José_Maurel_KOUASSI-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
