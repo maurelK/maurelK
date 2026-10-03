@@ -456,7 +456,7 @@ Particularly in environments involving:
 
 **GitHub:** [maurelK](https://github.com/maurelK)
 
-**LinkedIn:** [José Maurel KOUASSI](www.linkedin.com/in/josé-maurel-kouassi-152b39264/)
+**LinkedIn:** [José Maurel KOUASSI](www.linkedin.com/in/josé-maurel-kouassi-152b39264)
 
 ---
 
