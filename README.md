@@ -449,16 +449,6 @@ Particularly in environments involving:
 
 # Connect
 
-<p align="left">
-  <a href="https://github.com/maurelK">
-    <img src="https://cdn.simpleicons.org/github" width="32" alt="GitHub">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/jose-maurel-kouassi-152b39264/">
-    <img src="https://cdn.simpleicons.org/linkedin" width="32" alt="LinkedIn">
-  </a>
-</p>
-
 **GitHub:** [maurelK](https://github.com/maurelK)
 
 **LinkedIn:** [José Maurel KOUASSI](www.linkedin.com/in/josé-maurel-kouassi-152b39264)
