@@ -15,7 +15,7 @@
 
 ## Profile
 
-I am **KOUASSI José Mautrel**, a software and infrastructure-focused developer interested in building reliable systems across the application and infrastructure layers.
+I am **KOUASSI José Maurel**, a software and infrastructure-focused developer interested in building reliable systems across the application and infrastructure layers.
 
 My technical interests include:
 
