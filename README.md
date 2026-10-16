@@ -112,7 +112,6 @@ I particularly enjoy working on systems where **backend architecture, infrastruc
   <img src="https://cdn.simpleicons.org/typescript" width="40" alt="TypeScript">
   <img src="https://cdn.simpleicons.org/javascript" width="40" alt="JavaScript">
   <img src="https://cdn.simpleicons.org/c" width="40" alt="C">
-  <img src="https://cdn.simpleicons.org/java" width="40" alt="Java">
   <img src="https://cdn.simpleicons.org/html5" width="40" alt="HTML5">
   <img src="https://cdn.simpleicons.org/css" width="40" alt="CSS">
   <img src="https://cdn.simpleicons.org/gnubash" width="40" alt="Bash">
@@ -139,6 +138,12 @@ I particularly enjoy working on systems where **backend architecture, infrastruc
   <img src="https://cdn.simpleicons.org/linux" width="40" alt="Linux">
   <img src="https://cdn.simpleicons.org/nginx" width="40" alt="Nginx">
   <img src="https://cdn.simpleicons.org/oracle" width="40" alt="Oracle">
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/apachecordova.svg" width="32" alt="Apache Cordova" height="32"/>
 </p>
 
 ### Databases & Infrastructure
