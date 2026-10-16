@@ -137,7 +137,7 @@ I particularly enjoy working on systems where **backend architecture, infrastruc
   <img src="https://cdn.simpleicons.org/git" width="40" alt="Git">
   <img src="https://cdn.simpleicons.org/linux" width="40" alt="Linux">
   <img src="https://cdn.simpleicons.org/nginx" width="40" alt="Nginx">
-  <img src="https://cdn.simpleicons.org/oracle" width="40" alt="Oracle">
+  <img src="/icons/oracle.svg" alt="Oracle" width={32} height={32} />
 </p>
 
 ### Mobile
